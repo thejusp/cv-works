@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project( sfm )
+find_package( Eigen3 REQUIRED )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} ${EIGEN3_INCLUDE_DIR} )
+add_executable( exec src.cxx )
+target_link_libraries( exec ${OpenCV_LIBS} )

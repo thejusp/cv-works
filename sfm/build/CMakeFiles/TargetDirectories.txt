@@ -1,0 +1,3 @@
+/home/test/Desktop/works/sfm/build/CMakeFiles/rebuild_cache.dir
+/home/test/Desktop/works/sfm/build/CMakeFiles/edit_cache.dir
+/home/test/Desktop/works/sfm/build/CMakeFiles/exec.dir

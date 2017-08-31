@@ -1,0 +1,3 @@
+/home/test/Desktop/works/camera-surf/build/CMakeFiles/rebuild_cache.dir
+/home/test/Desktop/works/camera-surf/build/CMakeFiles/edit_cache.dir
+/home/test/Desktop/works/camera-surf/build/CMakeFiles/exec.dir

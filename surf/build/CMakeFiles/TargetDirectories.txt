@@ -1,0 +1,3 @@
+/home/test/Desktop/works/surf/build/CMakeFiles/rebuild_cache.dir
+/home/test/Desktop/works/surf/build/CMakeFiles/edit_cache.dir
+/home/test/Desktop/works/surf/build/CMakeFiles/exec.dir
