@@ -35,6 +35,7 @@ CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/core/types.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/core/types_c.h
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/core/utility.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/core/version.hpp
+CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/core/vsx_utils.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/features2d.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/flann.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/flann/all_indices.h
@@ -125,11 +126,6 @@ CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/videostab/outlier_reje
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/videostab/ring_buffer.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/videostab/stabilizer.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/videostab/wobble_suppression.hpp
-CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/viz.hpp
-CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/viz/types.hpp
-CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/viz/viz3d.hpp
-CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/viz/vizcore.hpp
-CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/viz/widgets.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/xfeatures2d.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/xfeatures2d/cuda.hpp
 CMakeFiles/exec.dir/src.cxx.o: /usr/local/include/opencv2/xfeatures2d/nonfree.hpp
